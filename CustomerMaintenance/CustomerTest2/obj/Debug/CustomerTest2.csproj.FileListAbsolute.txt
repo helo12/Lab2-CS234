@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\CustomerTest2\bin\Debug\CustomerTest2.dll
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\CustomerTest2\bin\Debug\CustomerTest2.pdb
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\CustomerTest2\bin\Debug\CustomerMaintenance.exe
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\CustomerTest2\bin\Debug\nunit.framework.dll
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\CustomerTest2\bin\Debug\CustomerMaintenance.pdb
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\CustomerTest2\bin\Debug\CustomerMaintenance.exe.config
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\CustomerTest2\bin\Debug\nunit.framework.pdb
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\CustomerTest2\bin\Debug\nunit.framework.xml
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\CustomerTest2\obj\Debug\CustomerTest2.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\CustomerTest2\obj\Debug\CustomerTest2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\CustomerTest2\obj\Debug\CustomerTest2.csproj.CopyComplete
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\CustomerTest2\obj\Debug\CustomerTest2.dll
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\CustomerTest2\obj\Debug\CustomerTest2.pdb

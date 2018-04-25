@@ -6,13 +6,28 @@ using System.Threading.Tasks;
 
 namespace CustomerMaintenance
 {
-    public class CustomerList
-	{
+    public class CustomerList: IEnumerable<Customer>
+    {
+
 		private List<Customer> customers;
 
+        public delegate void ChangeHandler(CustomerList customers);
+        public event ChangeHandler Changed;
+        public IEnumerator<Customer> GetEnumerator()
+        {
+            foreach (Customer c in customers)
+            {
+                yield return c;
+            }
+        }
+        System.Collections.IEnumerator
+            System.Collections.IEnumerable.GetEnumerator()
+        {
+            throw new NotImplementedException();
+        }
         // declare the delegate and then the event here
-
-		public CustomerList()
+        public void HandleChanged(CustomerList customers) { }
+        public CustomerList()
 		{
             customers = new List<Customer>();
 		}

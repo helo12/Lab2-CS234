@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\Lab2-CS234\ProductMaintenance\ProductTests\bin\Debug\ProductTests.dll
+C:\Users\Student\Desktop\Lab2-CS234\ProductMaintenance\ProductTests\bin\Debug\ProductTests.pdb
+C:\Users\Student\Desktop\Lab2-CS234\ProductMaintenance\ProductTests\bin\Debug\nunit.framework.dll
+C:\Users\Student\Desktop\Lab2-CS234\ProductMaintenance\ProductTests\bin\Debug\ProductMaintenance.exe
+C:\Users\Student\Desktop\Lab2-CS234\ProductMaintenance\ProductTests\bin\Debug\ProductMaintenance.pdb
+C:\Users\Student\Desktop\Lab2-CS234\ProductMaintenance\ProductTests\bin\Debug\ProductMaintenance.exe.config
+C:\Users\Student\Desktop\Lab2-CS234\ProductMaintenance\ProductTests\bin\Debug\nunit.framework.pdb
+C:\Users\Student\Desktop\Lab2-CS234\ProductMaintenance\ProductTests\bin\Debug\nunit.framework.xml
+C:\Users\Student\Desktop\Lab2-CS234\ProductMaintenance\ProductTests\obj\Debug\ProductTests.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Lab2-CS234\ProductMaintenance\ProductTests\obj\Debug\ProductTests.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Lab2-CS234\ProductMaintenance\ProductTests\obj\Debug\ProductTests.csproj.CopyComplete
+C:\Users\Student\Desktop\Lab2-CS234\ProductMaintenance\ProductTests\obj\Debug\ProductTests.dll
+C:\Users\Student\Desktop\Lab2-CS234\ProductMaintenance\ProductTests\obj\Debug\ProductTests.pdb

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProductMaint.Product">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAgAAAAIAAhAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductMaint.ProductDB">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAIAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>ProductDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductMaint.ProductList">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="ProductMaint.ProductList.ChangeHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ProductList.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACIAAIAAAAAAABAATAEABAQAAAAACAAAAAAABAAAAAA=</HashCode>
+      <FileName>ProductList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProductMaint.Program">
+    <Position X="8" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductMaint.Validator">
+    <Position X="6.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAUAAAAEAAQEAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

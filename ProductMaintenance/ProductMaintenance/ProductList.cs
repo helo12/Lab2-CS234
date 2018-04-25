@@ -6,13 +6,26 @@ using System.Threading.Tasks;
 
 namespace ProductMaint
 {
-    public class ProductList
-	{
-		private List<Product> products;
+    public class ProductList : IEnumerable<Product>
+    {
+        
+		private List<Product> products = new List<Product>();
 
 		public delegate void ChangeHandler(ProductList products);
 		public event ChangeHandler Changed;
 
+        public IEnumerator<Product> GetEnumerator()
+        {
+            foreach (Product p in products)
+            {
+                yield return p;
+            }
+        }
+       System.Collections.IEnumerator
+            System.Collections.IEnumerable.GetEnumerator()
+        {
+            throw new NotImplementedException();
+        }
 		public ProductList()
 		{
 			products = new List<Product>();
@@ -89,5 +102,7 @@ namespace ProductMaint
 			return pl;
 		}
 
-	}
+      
+
+    }
 }

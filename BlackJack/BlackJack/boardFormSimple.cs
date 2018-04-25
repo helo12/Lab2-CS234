@@ -135,7 +135,7 @@ namespace BlackJack
 
         #endregion
 
-        /*
+        
         public void HandleEmpty(Deck d)
         {
             if (d == deck)
@@ -144,7 +144,7 @@ namespace BlackJack
                 deck.Shuffle();
             }
         }
-        */
+        
         private void frmBoard_Load(object sender, EventArgs e)
         {
             hitButton.Enabled = true;
@@ -157,7 +157,7 @@ namespace BlackJack
             dealer = new GUIPlayer(card16, card17, card18, card19, card20);
             deck = new Deck();
 
-            //deck.AlmostEmpty += new Deck.EmptyHandler(HandleEmpty);
+            deck.AlmostEmpty += new Deck.EmptyHandler(HandleEmpty);
             deck.Shuffle();
             for (int i = 1; i <= 38; i++)
                 deck.Deal();

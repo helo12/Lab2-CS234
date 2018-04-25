@@ -6,8 +6,18 @@ using System.Threading.Tasks;
 
 namespace CustomerMaintenance
 {
-    public class Customer
-	{
+    public class Customer : ICloneable
+    {
+       
+        public object Clone()
+        {
+            Customer c = new Customer();
+            c.firstName = this.firstName;
+            c.lastName = this.lastName;
+            c.email = this.email;
+
+            return c;
+        }
 		private string firstName;
 		private string lastName;
 		private string email;
@@ -18,9 +28,9 @@ namespace CustomerMaintenance
 
 		public Customer(string firstName, string lastName, string email)
 		{
-			this.FirstName = firstName;
-			this.LastName = lastName;
-			this.Email = email;
+			FirstName = firstName;
+			LastName = lastName;
+			Email = email;
 		}
 
 		public string FirstName

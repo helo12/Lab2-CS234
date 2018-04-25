@@ -1,0 +1,12 @@
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\.vs\CustomerMaintenance\lut\0\b\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\.vs\CustomerMaintenance\lut\0\b\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\.vs\CustomerMaintenance\lut\0\b\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\.vs\CustomerMaintenance\lut\0\i\CustomerMaintenance\Debug\CustomerMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\.vs\CustomerMaintenance\lut\0\i\CustomerMaintenance\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\.vs\CustomerMaintenance\lut\0\i\CustomerMaintenance\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\.vs\CustomerMaintenance\lut\0\i\CustomerMaintenance\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\.vs\CustomerMaintenance\lut\0\i\CustomerMaintenance\Debug\CustomerMaintenance.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\.vs\CustomerMaintenance\lut\0\i\CustomerMaintenance\Debug\CustomerMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\.vs\CustomerMaintenance\lut\0\i\CustomerMaintenance\Debug\CustomerMaintenance.csproj.CopyComplete
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\.vs\CustomerMaintenance\lut\0\i\CustomerMaintenance\Debug\CustomerMaintenance.exe
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\.vs\CustomerMaintenance\lut\0\i\CustomerMaintenance\Debug\CustomerMaintenance.pdb

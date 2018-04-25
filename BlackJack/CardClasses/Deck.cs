@@ -9,22 +9,23 @@ namespace CardClasses
     public class Deck
     {
         private List<Card> cards = new List<Card>();
-        //public delegate void EmptyHandler(Deck d);
-        //public event EmptyHandler AlmostEmpty;
+        public delegate void EmptyHandler(Deck d);
+        public event EmptyHandler AlmostEmpty;
 
-        //public void HandleEmpty(Deck d) { }
+        public void HandleEmpty(Deck d) { }
 
         public Deck()
         {
             for (int value = 1; value <= 13; value++)
                 for (int suit = 1; suit <= 4; suit++)
                     cards.Add(new Card(value, suit));
-            //AlmostEmpty = new EmptyHandler(HandleEmpty);
+            AlmostEmpty = new EmptyHandler(HandleEmpty);
         }
+
 
         public int NumCards
         {
-            get 
+            get
             {
                 return cards.Count;
             }
@@ -54,7 +55,7 @@ namespace CardClasses
             {
                 Card c = cards[0];
                 cards.Remove(c);
-                //AlmostEmpty(this);
+                AlmostEmpty(this);
                 return c;
             }
         }

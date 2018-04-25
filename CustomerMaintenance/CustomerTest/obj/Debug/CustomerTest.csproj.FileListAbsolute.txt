@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\CustomerTest\obj\Debug\CustomerTest.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\CustomerTest\obj\Debug\CustomerTest.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\CustomerTest\bin\Debug\CustomerTest.dll
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\CustomerTest\bin\Debug\CustomerTest.pdb
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\CustomerTest\bin\Debug\CustomerMaintenance.exe
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\CustomerTest\bin\Debug\CustomerMaintenance.pdb
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\CustomerTest\bin\Debug\CustomerMaintenance.exe.config
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\CustomerTest\obj\Debug\CustomerTest.csproj.CopyComplete
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\CustomerTest\obj\Debug\CustomerTest.dll
+C:\Users\Student\Desktop\Lab2-CS234\CustomerMaintenance\CustomerTest\obj\Debug\CustomerTest.pdb

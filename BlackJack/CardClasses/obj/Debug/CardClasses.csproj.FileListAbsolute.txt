@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Lab2-CS234\BlackJack\CardClasses\bin\Debug\CardClasses.dll
+C:\Users\Student\Desktop\Lab2-CS234\BlackJack\CardClasses\bin\Debug\CardClasses.pdb
+C:\Users\Student\Desktop\Lab2-CS234\BlackJack\CardClasses\obj\Debug\CardClasses.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Lab2-CS234\BlackJack\CardClasses\obj\Debug\CardClasses.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Lab2-CS234\BlackJack\CardClasses\obj\Debug\CardClasses.dll
+C:\Users\Student\Desktop\Lab2-CS234\BlackJack\CardClasses\obj\Debug\CardClasses.pdb

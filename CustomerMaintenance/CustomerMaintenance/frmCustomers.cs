@@ -22,6 +22,7 @@ namespace CustomerMaintenance
         private void frmCustomers_Load(object sender, EventArgs e)
         {
             // register the event and it's delegate here
+            customers.Changed += new CustomerList.ChangeHandler(HandleChange);
             customers.Fill();
             FillCustomerListBox();
         }
